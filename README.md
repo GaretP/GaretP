@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
 ###
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GaretP.GaretP&"  />
@@ -48,10 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GaretP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=GaretP&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/GaretP/GaretP/output/snake.svg" alt="Snake animation" />
 
 ###
 
